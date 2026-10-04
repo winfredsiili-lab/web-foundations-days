@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+}
+
+.my-title{
+    color: red;
+}
+
+.my-second-paragraph{
+    color: red;
+}
+
+#my-paragraph-id{
+    color: pink;
+}
+
+h1,
+p{
+    color: rgb(229, 255, 0);
+}
+
+section p {
+    font-weight: bolder;
+}
+
+button:hoover
