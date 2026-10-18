@@ -1,5 +1,5 @@
 #Web Foundations - Daily Assignments.
-#Web Foundations - Daily Assignments.
+
 A small note taking web app for capturing ideas, reminders and tasks. Built with HTML, CSS and vanilla JavaScript as Project 1 of Web Foundations.
 
 ## Features
@@ -30,4 +30,3 @@ A small note taking web app for capturing ideas, reminders and tasks. Built with
 * Building elements with createElement and textContent
 * Handling form events with preventDefault
 * Saving and loading data with localStorage, JSON.stringify and JSON.parse
-* The render pattern: update the data, save it, then redraw the page
